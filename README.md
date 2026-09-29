@@ -1,6 +1,19 @@
-#  About Me:
-<br><br>Final-year IT student passionate about building, experimenting, and solving real-world problems with technology.<br>Exploring AI/ML, software development, IoT, and data-driven systems.<br>
+# About Me:
+<br>
 
+Final-year **Information Technology student** passionate about building, experimenting, and solving real-world problems through technology.<br>
+Exploring **AI/ML, software development, IoT, and data-driven systems**, with a focus on learning through hands-on projects and collaboration.<br>
+
+<br>
+
+# Achievements:
+<br>
+
+🏆 **1st Prize** — College-Level Aavishkar Research Competition  
+🎯 **University-Level Qualifier** — Aavishkar Research Competition  
+🥇 **14th Rank** — National Level TechPragyan Hackathon  
+🏅 **National Level Project Presentation** — Institution of Engineers (India), Nashik  
+💡 **National Level Hackathon Participant** — SKN Sinhgad College of Engineering, Pandharpur
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-jagtap-4389ba332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:majagtap370823@kkwagh.edu.in) 
